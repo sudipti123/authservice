@@ -46,4 +46,5 @@ curl --location 'http://localhost:46080/api/test/protected' \
 
 
 **Timeout for Access token is set to 1 minute**
+
 **Timeout for Refresh token is set to 2 minutes**
